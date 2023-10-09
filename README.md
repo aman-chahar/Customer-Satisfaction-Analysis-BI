@@ -1,5 +1,6 @@
 # CALL CENTRE Data Analysis with Power BI
 https://www.novypro.com/project/call-centre-performance-report-2
+
 This project focuses on analyzing the CALL CENTRE dataset and creating insightful reports using Microsoft Power BI. We will follow a structured approach to understand the data, prepare it for analysis, and generate interactive insights as per the company's requirements.
 
 ## Dataset Overview
@@ -27,15 +28,25 @@ Analysis and Reporting
 #### To meet the client's requirements, we will perform the following tasks:
 
 Calculate the total number of calls.
+
 Create new columns to calculate the total number of answered and rejected calls.
+
 Calculate the percentage of calls answered and rejected.
+
 Create a new column to count resolved calls.
+
 Create a new column to count unresolved calls.
+
 Identify the top agent who answered the maximum number of calls.
+
 Identify the top agent with the highest satisfaction rate.
+
 Use charts to display the total number of calls by topic.
+
 Analyze the duration of calls by each agent.
+
 Calculate the total calls by days and months for the year 2021.
+
 Use slicers for interactive filtering by month and day.
 Provide overall performance ratings for 2021.
 Use custom charts to visualize overall 2021 performance satisfaction ratings.

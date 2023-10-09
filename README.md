@@ -1,4 +1,5 @@
 # CALL CENTRE Data Analysis with Power BI
+https://www.novypro.com/project/call-centre-performance-report-2
 This project focuses on analyzing the CALL CENTRE dataset and creating insightful reports using Microsoft Power BI. We will follow a structured approach to understand the data, prepare it for analysis, and generate interactive insights as per the company's requirements.
 
 ## Dataset Overview

@@ -1,4 +1,5 @@
 # CALL CENTRE Data Analysis with Power BI
+#### Dashboard 
 https://www.novypro.com/project/call-centre-performance-report-2
 
 This project focuses on analyzing the CALL CENTRE dataset and creating insightful reports using Microsoft Power BI. We will follow a structured approach to understand the data, prepare it for analysis, and generate interactive insights as per the company's requirements.
@@ -48,6 +49,7 @@ Analyze the duration of calls by each agent.
 Calculate the total calls by days and months for the year 2021.
 
 Use slicers for interactive filtering by month and day.
+
 Provide overall performance ratings for 2021.
+
 Use custom charts to visualize overall 2021 performance satisfaction ratings.
-Feel free to create additional visualizations if needed to provide more insights.
